@@ -1,2 +1,2 @@
 # logicromsdk-verify
-Test application to verify logicrom SDK builder
+Test application to verify logicrom OpenCPU SDK builder
